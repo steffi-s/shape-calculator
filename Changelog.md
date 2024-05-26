@@ -7,20 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [v1.0.0] - 2024-05-26
 
-## Added
+### Added
 
 - unit tests
 
 ## [v0.1.5] - 2024-05-26
 
-## Added
+### Added
 
 - example usage in main
 - dart command in README
 
 ## [v0.1.4] - 2024-05-26
 
-## Added
+### Added
 
 - doc-comments for shape, rectangle and circle
 
