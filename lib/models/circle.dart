@@ -2,7 +2,11 @@ import 'dart:math';
 
 import 'shape.dart';
 
+/// The [Circle] is a specific kind of [Shape].
+///
+/// It needs a [radius] for the calculations to work.
 class Circle extends Shape {
+  /// The [radius] is expected to be a double to avoid casting.
   double radius;
 
   Circle({
