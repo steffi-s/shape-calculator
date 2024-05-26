@@ -21,7 +21,7 @@ class Rectangle extends Shape {
 
   @override
   double calculateArea() {
-    var area = sideA * sideA + sideB * sideB;
+    var area = sideA * sideB;
     return double.parse(area.toStringAsFixed(2));
   }
 

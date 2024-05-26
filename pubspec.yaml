@@ -1,0 +1,6 @@
+name: 'shape_calculator'
+version: 1.0.0
+environment:
+  sdk: '^3.3.0'
+dev_dependencies:
+  test: any
