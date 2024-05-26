@@ -11,7 +11,11 @@ The program is a simple console program and not executable.
 
 ## Usage
 
-Clone or download the code and open in your IDE or run via the Dart CLI tool from your favorite terminal.
+Clone or download the code and open in your IDE or run via the Dart CLI tool from your favorite terminal:
+
+```bash
+  dart run lib/main.dart
+```
 
 ## Prerequisites
 
